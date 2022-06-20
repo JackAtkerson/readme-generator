@@ -4,7 +4,7 @@
 ![badge](https://img.shields.io/badge/license-None-blue.svg)<br />
 
 ## Description
-Generates a professional README.md file using Node.js and user input
+Generates professional README.md files using Node.js and user input
 
 ## Table of Contents
 -[Description](#description)
@@ -16,13 +16,13 @@ Generates a professional README.md file using Node.js and user input
 -[Questions](#questions)
 
 ## Installation
-Must install npm and inquirer
+Install npm and inquirer
 
 ## Usage
-Generating professional README.md files for use in project repos
+Generating professional README.md files for use in a repository
 
 ## Contributions
-undefined
+Jack Atkerson
 
 ## Tests
 N/A
@@ -31,6 +31,6 @@ N/A
 None
 
 ## Questions
-Feel free to reach out to me!<br />
+Feel free to reach out to me here:<br />
 GitHub: [undefined](https://githuub.com/undefined)<br />
 E-Mail:jatkerson18@gmail.com
